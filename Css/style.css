@@ -1,0 +1,101 @@
+.PageImg{
+    float: left;
+    position: fixed;
+    bottom: 0;
+}
+
+.content{
+    width: 700px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: crimson;
+   
+}
+
+.sidenav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    /* background-color: #111; */
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    /* color: #818181; */
+    display: block;
+  }
+
+.sigfreid{
+    vertical-align: auto;
+    width: 300px;
+    float: left;
+    margin-left: 200px;
+    position: static;
+    
+}
+
+.karna{
+    width: 300px;
+    height: 100px;
+    margin: 15px;
+    border: 2px solid gold;
+    float: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: auto;
+}
+
+.galleryban{
+    background-image: url(/images/infinity.jpg);
+    width: 700px;
+    height: 300px;
+    background-repeat: no-repeat;
+   
+ 
+}
+
+
+.sidenan {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    /* background-color: #111; */
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.sidenan a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    /* color: #818181; */
+    display: block;
+ }
+
+
+
+.Vid1{
+    margin-left: 30px;
+    
+}
+
+.Vid2{
+
+    margin-left: 30px;
+
+}
+ .Tv{
+     width: 300px;
+ }
